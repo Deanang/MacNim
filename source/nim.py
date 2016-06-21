@@ -1,3 +1,19 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @Deanang
+ Unwatch 1
+  Star 0
+  Fork 0 Deanang/MacNim
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathMacNim/source/nim.py
+1b824d9  2 days ago
+@Deanang Deanang Add files via upload
+1 contributor
+RawBlameHistory     201 lines (169 sloc)  6.82 KB
 #!/usr/bin/python3
 # Nim Game by Dean Ang
 
@@ -198,3 +214,5 @@ comradio.bind('<Button-1>', cmove)
 root.mainloop()
 
 
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
